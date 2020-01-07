@@ -22,7 +22,7 @@ Take a look at each of the code samples below. For each sample, work with your g
 
 <button id="notify">Click Me!</button>
 
-<script src="index.js" />
+<script src="index.js"></script>
 ```
 
 ```js
@@ -42,7 +42,7 @@ button.addEventListener('click', function(){
 
 <button id="notify">Click Me!</button>
 
-<script src="index.js" />
+<script src="index.js"></script>
 ```
 
 ```js
@@ -59,7 +59,7 @@ button.addEventListener('mouseover', function(){
 ```html
 // index.html
 ...
-<script src="index.js" />
+<script src="index.js"></script>
 
 <button id="notify">Click Me!</button>
 
@@ -79,7 +79,7 @@ button.addEventListener('mouseover', function(){
 ```html
 // index.html
 ...
-<script src="index.js" />
+<script src="index.js"></script>
 
 <button id="notify">Click Me!</button>
 
@@ -102,7 +102,7 @@ Oops. Looks like this developer made some mistakes typing. Identify the mistakes
 ```html
 // index.html
 ...
-<script src="index.js" />
+<script src="index.js"/>
 
 <button id="notifiable">Click Me!</button>
 
