@@ -102,7 +102,7 @@ Oops. Looks like this developer made some mistakes typing. Identify the mistakes
 ```html
 // index.html
 ...
-<script src="index.js"/>
+<script src="index.js"></script>
 
 <button id="notifiable">Click Me!</button>
 
