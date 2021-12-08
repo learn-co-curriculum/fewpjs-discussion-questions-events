@@ -8,7 +8,8 @@
 
 ## Exercise
 
-Take a look at each of the code samples below. For each sample, work with your group to answer the following questions.
+Take a look at each of the code samples below. For each sample, work with your
+group to answer the following questions.
 
 1. What does each line of code do?
 2. How does this piece of code work?
